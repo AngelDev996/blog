@@ -1,5 +1,5 @@
 # Mi Blog Personal
-Plantilla para la realización de un blog mediante el uso del Framework [Astro] (https://astro.build/)
+Plantilla para la realización de un blog mediante el uso del Framework [Astro](https://astro.build/)
  
  
 ## Deployment
